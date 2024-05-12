@@ -1,0 +1,15 @@
+.card-img-top {
+  height: 220px;
+}
+
+@media screen and (min-width: 1200px) {
+  .card-img-top {
+    height: 250px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  .card-img-top {
+    height: 280px;
+  }
+}

@@ -1,0 +1,19 @@
+
+
+.img-of-me {
+  height: 200px;
+  width: 200px;
+}
+
+@media (min-width: 900px) {
+  .img-of-me {
+    height: 300px;
+    width: 300px;
+  }
+}
+@media (min-width: 1000px) {
+  .img-of-me {
+    height: 400px;
+    width: 400px;
+  }
+}

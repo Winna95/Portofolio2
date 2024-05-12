@@ -1,0 +1,17 @@
+.flowerGirl-img {
+  width: 200px;
+  height: 200px;
+}
+
+@media (min-width: 900px) {
+  .flowerGirl-img {
+    height: 300px;
+    width: 300px;
+  }
+}
+@media (min-width: 1000px) {
+  .flowerGirl-img {
+    height: 400px;
+    width: 400px;
+  }
+}
