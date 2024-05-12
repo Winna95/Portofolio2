@@ -35,7 +35,7 @@ export function AboutSection() {
                     </div>
                 </div>
                 <div className="col-12 col-md-6 d-flex justify-content-center mt-2">
-                    <img src={PhotoOfMe} alt="Image of me" className="img-of-me object-fit-cover rounded-circle mt-4"/>
+                    <img src={PhotoOfMe} alt="me" className="img-of-me object-fit-cover rounded-circle mt-4"/>
                 </div>
             </div>
         </div>

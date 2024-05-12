@@ -1,11 +1,8 @@
-import React, { useState } from 'react';
+
 import { Link } from 'react-router-dom';
 
 const Navigation = () => {
 
-    function toggleMenu(){
-
-    }
     return (
         <nav className="navbar navbar-expand">
             <div className="navbar-collapse justify-content-end">
