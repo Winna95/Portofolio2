@@ -120,7 +120,7 @@ const projectEight = {
     img: projectEightImage,
     imgTwo: projectEightImageTwo,
     imgThree: projectEightImageThree,
-    netlifyLink: "https://testing--project-exam2-winnie.netlify.app/",
+    netlifyLink: "https://project-exam-2-winnie.netlify.app/",
     gitHubLink: "https://github.com/Winna95/2024-04-08_Project-Exam-2_CA_Winnie-Orbek_fp",
     figmaLink: "https://www.figma.com/file/ozSePc1A7707ExY22SENJU/2024-04-08_Project-Exam-2_CA_Winnie-Orbek_fp?type=design&node-id=0%3A1&mode=design&t=kkNZNr8tSWVO27L3-1"
 };
