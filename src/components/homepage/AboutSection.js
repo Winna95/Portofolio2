@@ -26,7 +26,7 @@ export function AboutSection() {
 
 
                     <div className="d-flex justify-content-center">
-                        <a href="https://noroff-my.sharepoint.com/:w:/g/personal/winorb53644_stud_noroff_no/Eavu6YFhG_xLo0fzj2nl6EsBN0-GLUMvwFozWyqJ_qk47w?e=5fChPY">
+                        <a href="https://drive.google.com/file/d/1BIs4FL-pFoGPFe1x-NcJJwaaFb5n4HJD/view?usp=sharing">
                             <button className="pink-btn border-0 rounded-1 py-1 px-3 fw-bold me-2 hover">Download CV</button>
                         </a>
                         <Link to="/myprojects">
